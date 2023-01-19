@@ -1,0 +1,75 @@
+.institution-dashboard h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #006C92;
+    margin-bottom: 20px;
+}
+
+.institution-dashboard h4 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.13px;
+    color: #858788;
+}
+
+.institution-dashboard .box-column {
+    border: 1px solid #E4E4E4;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.institution-dashboard .data-container .ui.three.column.relaxed.grid {
+    padding-left: 20px;
+}
+
+.institution-dashboard .data-container {
+    margin: 40px 0;
+}
+
+.institution-dashboard .data-container h5, .institution-dashboard .data-container span, .institution-dashboard .graph-container h4 {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #858788;
+}
+
+.institution-dashboard .data-container p {
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 60.94px;
+    color: #6D6F71;
+}
+
+.institution-dashboard .data-container .box-column {
+    width: 461px !important;
+}
+
+.institution-dashboard .data-container .mid-box {
+    margin: 0 30px;
+}
+
+.institution-dashboard .graph-container {
+    padding-left: 20px;
+}
+
+.institution-dashboard .graph-container .box-column {
+    width: 700px !important;
+    height: 570px !important;
+}
+
+.institution-dashboard .graph-container .first-box {
+    margin: 0 42px 20px 0;
+}
+
+.institution-dashboard .graph-container .third-box {
+    margin: 20px 42px 0 0;
+}
+
+.institution-dashboard .graph-container .fourth-box {
+    margin-top: 20px;
+}
+
+.dashboard-btn {
+    color: #DB5620 !important;
+}

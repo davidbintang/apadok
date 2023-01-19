@@ -1,0 +1,124 @@
+.institution-chat h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #006C92;
+    margin-bottom: 40px;
+}
+
+.institution-chat .box-column {
+    border: 1px solid #E4E4E4;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.institution-chat .left-box {
+    margin-right: 40px;
+}
+
+.institution-chat .left-box .ui.search {
+    margin-bottom: 24px;
+}
+
+.institution-chat .left-box .ui.search input {
+    width: 340px;
+    height: 59px;
+}
+
+.institution-chat button {
+    text-align: left;
+    padding: 0;
+    border: none;
+    background-color: #FFFFFF;
+    transition: 0.25s;
+    width: 340px;
+    margin-bottom: 30px;
+}
+
+.institution-chat button:hover {
+    background: #F7F7F7;
+}
+
+.institution-chat .initial-column .circle-bg {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: 59px;
+    height: 59px;
+    background: #FFEED4;
+    border-radius: 100px;
+}
+
+.institution-chat .initial-column h3 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    margin: 10px;
+    color: #FF762C;
+}
+
+.institution-chat .detail-column {
+    padding: 20px !important;
+}
+
+.institution-chat .detail-column h5 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #3C3E41;
+}
+
+.institution-chat .detail-column p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.41px;
+    color: #858788;
+}
+
+.institution-chat .right-box {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.institution-chat .right-box .filled-chat-right-box-container {
+    display: none;
+}
+
+.institution-chat .right-box .filled-chat-right-box-container h2 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32.81px;
+    color: #3C3E41;
+    margin-bottom: 25px;
+}
+
+.institution-chat .right-box .filled-chat-right-box-container .field {
+    position: relative;
+}
+
+.institution-chat .right-box .filled-chat-right-box-container .send-btn {
+    position: absolute;
+    width: 25px;
+    right: 3px;
+    top: 10px;
+}
+
+.institution-chat .right-box .filled-chat-right-box-container .send-btn:hover {
+    background-color: #FFFFFF;
+}
+.institution-chat .right-box .empty-chat-right-box-container {
+    text-align: center;
+}
+
+.institution-chat .right-box .empty-chat-right-box-container p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #A2A4A5;
+    margin-top: 33px;
+}
+
+.chat-btn {
+    color: #DB5620 !important;
+}

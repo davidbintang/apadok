@@ -1,0 +1,37 @@
+.admin-add-article h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #006C92;
+}
+
+.admin-add-article .form-container .lbl-field {
+    margin-top: 40px !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    line-height: 23.44px;
+    color: #006C92 !important;
+}
+
+.admin-add-article .form-container .input-txt {
+    height: 59px;
+    background-color: #F7F7F7 !important;
+}
+
+.admin-add-article .form-container textarea {
+    background-color: #F7F7F7 !important;
+}
+
+.admin-add-article .form-container .ui.grid button {
+    width: 141px;
+    height: 59px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    margin-left: 19px;
+    margin-top: 40px;
+}
+
+.artikel-kesehatan-btn {
+    color: #DB5620 !important;
+}

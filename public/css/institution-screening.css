@@ -1,0 +1,67 @@
+@import "pagination.css";
+
+.institution-screening h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #006C92;
+}
+
+.institution-screening .box-column {
+    border: 1px solid #E4E4E4;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.institution-screening .data-container {
+    margin: 40px 0;
+}
+
+.institution-screening .data-container .ui.three.column.relaxed.grid {
+    padding-left: 20px;
+}
+
+.institution-screening .data-container h5, .institution-screening .data-container span {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #858788;
+}
+
+.institution-screening .data-container p {
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 60.94px;
+    color: #6D6F71;
+}
+
+.institution-screening .data-container .box-column {
+    width: 461px !important;
+}
+
+.institution-screening .data-container .mid-box {
+    margin: 0 30px;
+}
+
+.table-container thead tr th {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #3C3E41;
+}
+
+.table-container tbody tr td {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #6D6F71;
+}
+
+.table-container tbody tr a {
+    font-weight: 700;
+    color: #3C3E41;
+}
+
+.monitoring-btn, .jumlah-screening-btn, .exc-data {
+    color: #DB5620 !important;
+}

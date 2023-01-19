@@ -1,0 +1,125 @@
+@import "navbar.css";
+@import "foot.css";
+
+.about-container {
+    background: #EFF8FF;
+}
+
+.about-sect-1 {
+    height: 636px;
+    margin-top: 20px;
+}
+
+.about-sect-1 .eight.wide.column, .about-sect-2, .about-sect-3 .eight.wide.column, .about-sect-4, .about-sect-5 {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+
+.about-sect-1 .eight.wide.column {
+    padding: 0 30px;
+}
+
+.about-sect-1 .left-column h3, .about-sect-3 h3, .about-sect-4 h3, .about-sect-5 h3 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37.5px;
+    color: #006C92;
+}
+
+.about-sect-1 .left-column p, .about-sect-3 .right-column p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.13px;
+    color: #545659;
+}
+
+.about-sect-1 .right-column {
+    margin-top: 80px;
+}
+
+.about-sect-2 {
+    background: #006C92;
+    height: 393px;
+    text-align: center;
+}
+
+.about-sect-2 h3 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37.5px;
+    color: #FFFFFF;
+}
+
+.about-sect-2 h1 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    color: #FFFFFF;
+}
+
+.about-sect-3 {
+    background: #FFFFFF;
+    height: 714px;
+    text-align: center;
+}
+
+.about-sect-3 h3 {
+    padding-top: 80px;
+}
+
+.about-sect-3 .left-column img {
+    width: 790px;
+    height: 445px;
+}
+
+.about-sect-3 .right-column p {
+    padding: 50px;
+}
+
+.about-sect-4 {
+    height: 541px;
+}
+
+.about-sect-4 h3 {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.about-sect-4 .ui.card {
+    width: 448px;
+}
+
+.about-sect-4 .ui.card h4 {
+    margin: 0 0 5px 0 !important;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32.81px;
+    color: #006C92;
+}
+
+.about-sect-4 .ui.card .meta span, .about-sect-4 .ui.card .description p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.about-sect-4 .ui.card .description p {
+    margin-top: 20px;
+    color: #6D6F71;
+}
+
+.about-sect-5 {
+    background: #FFFFFF;
+    height: 518px;
+    text-align: center;
+}
+
+.about-sect-5 h3 {
+    margin-bottom: 70px;
+}
+
+.about-nav {
+    color: #FF762C !important;
+}

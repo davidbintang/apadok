@@ -1,0 +1,185 @@
+@import "pagination.css";
+
+.institution-disease h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #006C92;
+}
+
+.institution-disease .graph-container {
+    width: 1440px;
+    height: 569px;
+    border: 1px solid #E4E4E4;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    margin: 40px 0;
+}
+
+.institution-disease .graph-container h5 {
+    margin: 18px;
+}
+
+.institution-disease .graph-container .img-container {
+    text-align: center;
+}
+
+.institution-disease .box-column {
+    border: 1px solid #E4E4E4;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.institution-disease .data-container {
+    margin: 40px 0;
+}
+
+.institution-disease .data-container .ui.three.column.relaxed.grid {
+    padding-left: 20px;
+}
+
+.institution-disease .data-container h5, .institution-disease .data-container span, .graph-container h5 {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #858788;
+}
+
+.institution-disease .data-container p {
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 60.94px;
+    color: #6D6F71;
+}
+
+.institution-disease .data-container .box-column {
+    width: 461px !important;
+}
+
+.institution-disease .data-container .mid-box {
+    margin: 0 30px;
+}
+
+.risiko-container {
+    width: 1440px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    margin: 40px 0;
+    padding: 40px;
+}
+
+.risiko-container h3 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32.81px;
+    color: #6D6F71;
+}
+
+.three.wide.column button {
+    width: 230px;
+    height: 59px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.ui.search input {
+    width: 1360px;
+    height: 59px;
+    margin: 40px 0;
+}
+
+.table-container thead tr th {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #3C3E41;
+}
+
+.table-container tbody tr td {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #6D6F71;
+}
+
+.table-container tbody tr a {
+    font-weight: 700;
+    color: #3C3E41;
+}
+
+.three.wide.column .ui.menu button {
+    width: 230px;
+    height: 59px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px !important;
+    line-height: 23.44px;
+}
+
+.three.wide.column .ui.menu button i {
+    margin-left: 10px;
+}
+
+.three.wide.column .ui.menu .item {
+    padding: 0;
+    display: block;
+}
+
+.three.wide.column .ui.menu .item .sub-btn-ie i {
+    transition: 0.3s ease;
+}
+
+.three.wide.column .ui.menu .item .sub-menu-btn {
+    display: none;
+    margin-top: 10px;
+    border: 1px solid #E4E4E4;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    position: absolute;
+    width: 236px;
+    z-index: 1;
+}
+
+.three.wide.column .ui.menu .item .sub-menu-btn a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #3C3E41;
+    margin: 34px;
+}
+
+.rotate-btn {
+    transform: rotate(180deg);
+}
+
+#export-modal {
+    width: 578px;
+    height: 436px;
+}
+
+#export-modal .content {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    height: 436px;
+}
+
+#export-modal .content .content-container {
+    text-align: center;
+}
+
+#export-modal .content h3 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #3C3E41;
+    margin: 32px 0;
+}
+
+.monitoring-btn, .all-disease-btn, .exc-data {
+    color: #DB5620 !important;
+}

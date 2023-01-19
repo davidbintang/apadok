@@ -1,0 +1,29 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-container .navbar-logo {
+    margin-right: 68px;
+}
+
+.navbar-container .menu-link {
+    color: #006C92;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    margin-top: 32px;
+    margin-right: 590px;
+}
+
+.navbar-container .menu-link a {
+    margin-right: 68px;
+}
+
+.navbar-container .button-login button {
+    width: 133px;
+    height: 59px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 14px;
+}

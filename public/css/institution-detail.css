@@ -1,0 +1,179 @@
+@import "pagination.css";
+
+.institution-detail h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #006C92;
+}
+
+.institution-detail .first-btn {
+    width: 144px;
+    height: 59px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.institution-detail .first-btn span {
+    margin-right: 10px;
+}
+
+.detail-peserta-container, .risiko-container, .kebugaran-container {
+    width: 1440px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    margin: 40px 0;
+    padding: 40px;
+}
+
+.detail-peserta-container .row {
+    margin-bottom: 10px;
+}
+
+.detail-peserta-container .text-title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #6D6F71;
+}
+
+.detail-peserta-container .text-data {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #6D6F71;
+}
+
+.risiko-container h3, .kebugaran-container h3 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32.81px;
+    color: #6D6F71;
+}
+
+.three.wide.column .ui.menu button {
+    width: 230px;
+    height: 59px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px !important;
+    line-height: 23.44px;
+}
+
+.three.wide.column .ui.menu button i {
+    margin-left: 10px;
+}
+
+.three.wide.column .ui.menu .item {
+    padding: 0;
+    display: block;
+}
+
+.three.wide.column .ui.menu .item .sub-btn-ie i {
+    transition: 0.3s ease;
+}
+
+.three.wide.column .ui.menu .item .sub-menu-btn {
+    display: none;
+    margin-top: 10px;
+    border: 1px solid #E4E4E4;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    position: absolute;
+    width: 236px;
+    z-index: 1;
+}
+
+.three.wide.column .ui.menu .item .sub-menu-btn a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #3C3E41;
+    margin: 34px;
+}
+
+.rotate-btn {
+    transform: rotate(180deg);
+}
+
+.ui.search input {
+    width: 1360px;
+    height: 59px;
+    margin: 40px 0;
+}
+
+.table-container thead tr th {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #3C3E41;
+}
+
+.table-container tbody tr td {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: #6D6F71;
+}
+
+#edit-modal {
+    width: 1375px;
+    height: 834px;
+    padding: 48px;
+}
+
+.ui.modal .content h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46.88px;
+    color: #006C92;
+}
+
+.ui.modal .content label {
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    line-height: 23.44px !important;
+    color: #006C92 !important;
+    margin-bottom: 6px;
+}
+
+.ui.modal .content .field {
+    margin-bottom: 32px;
+}
+
+.ui.modal .content .field input {
+    width: 615.5px;
+    height: 59px;
+}
+
+.ui.modal .content .field button {
+    width: 295px;
+    height: 59px;
+}
+
+.ui.modal .action {
+    position: absolute;
+    right: 0;
+    padding-bottom: 48px;
+    padding-right: 48px;
+}
+
+.ui.modal .action .ui.deny.basic.button {
+    border: none !important;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #B91A28 !important;
+}
+
+.ui.modal .action .ui.positive.basic.button {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23.44px;
+    background: #006C92 !important;
+    color: #FFFFFF !important;
+}

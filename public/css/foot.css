@@ -1,0 +1,78 @@
+.foot-sect {
+    background: #EFF7FF;
+    height: 760px;
+}
+
+.foot-sect .ellipse-left, .foot-sect .ellipse-right {
+    position: absolute;
+}
+
+.foot-sect .ellipse-right {
+    right: 0;
+    margin-top: 80px;
+}
+
+.foot-sect .left-column {
+    color: #006A94;
+    padding-top: 150px !important;
+}
+
+.foot-sect .left-column h1 {
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 84px;
+    margin-bottom: 40px;
+}
+
+.foot-sect .left-column button {
+    font-size: 20px;
+    font-weight: 700;
+    width: 290px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.foot-sect .left-column button a {
+    color: white;
+    margin-left: 14px;
+}
+
+.foot-sect .left-column button img {
+    margin: -4px;
+}
+
+.foot-sect .left-column h1 span {
+    color: #FF762C;
+}
+
+.foot-sect .right-column img {
+    position: absolute;
+    right: 0;
+}
+
+.foot-sect .right-column .bluevect-img {
+    top: 0;
+}
+
+.foot-sect-1-container {
+    margin: 100px 0;
+}
+
+.foot-sect-1-container h2 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #006C92;
+    margin-bottom: 20px;
+}
+
+.foot-sect-1-container p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #6D6F71;
+}
+
+.foot-sect-1-container img {
+    margin-right: 30px;
+}
